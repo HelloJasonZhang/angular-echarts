@@ -24,7 +24,7 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "~1.6",
+    "angular": "~1.4.2",
     "echarts": "~3.4"
   },
   "devDependencies": {
